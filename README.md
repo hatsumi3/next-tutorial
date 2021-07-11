@@ -23,4 +23,19 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 - SWR
   - We highly recommend it if you’re fetching data on the client side. It handles caching, revalidation, focus tracking, refetching on interval, and more.
 
+### `getStaticPaths`
+
+- dynamic routing
+- Fallback
+  - true
+  - false
+  - blocking
+- Catch-all Routes
+  - `[...id].js`
+- Router
+  - Custom404
+
 ## other
+
+- date-fns
+  - [https://date-fns.org/v2.16.1/docs/format](https://date-fns.org/v2.16.1/docs/format)
